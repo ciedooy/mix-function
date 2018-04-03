@@ -1,0 +1,24 @@
+{
+    "name": "ciedooy/mix-function",
+    "description": "Laravel mix function to render versioned assetes",
+    "keywords": [
+        "Laravel",
+        "Laraver Mix",
+        "Helper Function"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cie Dooy",
+            "email": "ciedooy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "files": [
+            "index.php"
+        ]
+    }
+}
